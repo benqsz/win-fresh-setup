@@ -17,6 +17,6 @@ irm "https://raw.githubusercontent.com/benqsz/win-fresh-setup/master/script.ps1"
 - Internet connection
 
 ## Third-Party Scripts Used
-  - [General](https://github.com/Raphire/Win11Debloat)
-  - [AI](https://github.com/zoicware/RemoveWindowsAI)
-  - [Choco](https://chocolatey.org/install)
+  - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+  - [Choco install](https://chocolatey.org/install)
